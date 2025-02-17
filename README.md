@@ -36,10 +36,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbakerfarhad&show_icons=true&layout=compact&theme=radical)
 
 </br>
-<a href="https://count.getloli.com">
-  <img width=400 align="center" src="https://count.getloli.com/@mdbakerfarhad?name=mdbakerfarhad&theme=normal-1&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
-</a>
-
-</br>
 </br>
 ✨ Let's connect and build something amazing together!
