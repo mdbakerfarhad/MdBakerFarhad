@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Python, AI/ML, and Data Analysis.
 - 🤝 I’m looking to collaborate on exciting open-source projects, especially in AI, ML, and Web Development.
 
+ ![Profile views](https://komarev.com/ghpvc/?username=mdbakerfarhad&color=brightgreen)
+
 ---
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdbakerfarhad) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mdbakerfarhad@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://mdbaker.vercel.app/)
@@ -28,15 +30,16 @@
 
 ---
 
-
-✨ Let's connect and build something amazing together!
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdbakerfarhad&show_icons=true&theme=radical)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbakerfarhad&layout=compact&theme=radical)
 
 </br>
 <a href="https://count.getloli.com">
   <img width=400 align="center" src="https://count.getloli.com/@mdbakerfarhad?name=mdbakerfarhad&theme=normal-1&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </a>
 
-
-
+</br>
+</br>
+✨ Let's connect and build something amazing together!
