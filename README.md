@@ -3,7 +3,7 @@
 - 👨‍💻 I’m a CSE Graduate from North South University and a passionate Developer.
 - 🌱 I’m currently learning Python, AI/ML, and Data Analysis.
 - 🤝 I’m looking to collaborate on exciting open-source projects, especially in AI, ML, and Web Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mdbakerfarhad/) | [Email](mailto:mdbakerfarhad@gmail.com)
 
 ---
 
