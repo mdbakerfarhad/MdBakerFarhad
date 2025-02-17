@@ -31,9 +31,9 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdbakerfarhad&show_icons=true&theme=radical)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbakerfarhad&layout=compact&theme=radical)
+</br>
+</br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbakerfarhad&show_icons=true&layout=compact&theme=radical)
 
 </br>
 <a href="https://count.getloli.com">
