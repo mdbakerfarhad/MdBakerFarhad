@@ -13,3 +13,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdbakerfarhad&show_icons=true&theme=radical)
 
+</br>
+<a href="https://count.getloli.com">
+  <img width=400 align="center" src="https://count.getloli.com/@IAFahim?name=IAFahim&theme=normal-1&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
+</a>
